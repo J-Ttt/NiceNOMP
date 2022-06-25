@@ -6,3 +6,8 @@ pool_configs/*.json
 !pool_configs/vertcoin_example.json
 logs/
 !.gitkeep
+/.vs/NiceNOMP/FileContentIndex
+/.vs/NiceNOMP/v17
+/.vs/NiceNOMP/config
+/.vs
+.opendb

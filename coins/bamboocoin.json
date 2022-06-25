@@ -1,0 +1,9 @@
+{
+  "name": "Bamboo",
+  "symbol": "BMB",
+  "algorithm": "pufferfish",
+  "explorerGetBlockJSON": "http://www.threeeyed.info/api/getblock?hash=",
+  "explorerGetBlock": "http://explorer.0xf10.com/api/blocks/block?height=",
+  "explorerGetTX": "http://explorer.0xf10.com/api/transactions/transaction?hash={0}&decrypt=1",
+  "blockTime": 90
+}
